@@ -1,6 +1,6 @@
 {
   "name": "f3-cli-new-simple3-atm-machine",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a cli based Automated Teller Machine (ATM).",
   "main": "index.js",
   "type": "module",
